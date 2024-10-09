@@ -2278,8 +2278,3 @@ html:has(.theme-picker) {
 .player-2, .player-1 {
   font-family: system-ui;
 }
-.cn{
-  font-size: 15px;
-  font-weight: lighter;
-
-}
